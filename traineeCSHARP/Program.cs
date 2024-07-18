@@ -7,7 +7,7 @@ using System.Globalization;
 using System.Linq;
 
 namespace TraineeCSHARP
-{
+{//BIBA SERGay can check this biba
     class Program
     {
         static List<Game> _allGames = new List<Game>();
@@ -123,7 +123,7 @@ namespace TraineeCSHARP
         }
 
     }
-
+    //we can relocate this to another file
     class Game
     {
         public string Name { get; private set; }
