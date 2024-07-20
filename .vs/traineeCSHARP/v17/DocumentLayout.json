@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|d:\\traineecsharp\\traineecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|solutionrelative:traineecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|d:\\traineecsharp\\traineecsharp\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|solutionrelative:traineecsharp\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,20 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileRecorder.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\traineeCSHARP\\FileRecorder.cs",
+              "RelativeDocumentMoniker": "traineeCSHARP\\FileRecorder.cs",
+              "ToolTip": "D:\\traineeCSHARP\\traineeCSHARP\\FileRecorder.cs",
+              "RelativeToolTip": "traineeCSHARP\\FileRecorder.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:57:05.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +45,7 @@
               "RelativeDocumentMoniker": "traineeCSHARP\\Program.cs",
               "ToolTip": "D:\\traineeCSHARP\\traineeCSHARP\\Program.cs",
               "RelativeToolTip": "traineeCSHARP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T13:21:44.275Z",
               "EditorCaption": ""
