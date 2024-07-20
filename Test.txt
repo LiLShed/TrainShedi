@@ -1,17 +1,11 @@
-Name___|Company|_______|Release date|___|Count of copies|
-Biba of Bob is released at 12.12.2424 with 123 copies
 
-Suka of Blyatskaya is released at 03.04.2222 with 123 copies
+|Name___________|Company________|Release date|Count of copies|
 
-Asassin of Ubiki is released at 04.03.2007 with 2000000 copies
+|Dota 2_________|Valve__________|21.02.2002__|21000000_______| 
 
-ebalo of olenya is released at 11.11.1111 with 111111 copies
+|Game1__________|Company2_______|30.12.2002__|123____________|
 
-Suka ya perdolya of blyar is released at 21.10.1984 with 1 copies
+|Asasini________|Ubisofti_______|12.04.2007__|1500000________|
 
-NiceGame of NiceCompany is released at 12.12.1212 with 1 copies
-
-BadGame of SukaCompany is released at 13.12.2002 with 2 copies
-
-seggay of Nau is released at 17.07.2024 with 1 copies
+|Gta 5__________|RockstarGames__|29.04.2011__|30000000_______|
 
