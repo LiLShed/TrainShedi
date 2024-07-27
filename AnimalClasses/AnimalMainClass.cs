@@ -6,38 +6,48 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AnimalClasses;
+using System.Diagnostics;
 namespace TraineeCSHARP
 {
     class AnimalMainClass
     {
         static void Main(string[] args)
         {
-            var path = "D:\\AnimalClasses\\TestAnimals.txt";
+            var path = "D:\\traineeCSHARP\\TestAnimals.txt";
             var recorder = new FileRecorder();
             Console.Write("Hello, This is a Animal logger,\n" +
                 "Where you can text and save info about ur pet.\n");
 
             Console.WriteLine("____________________________________________________");
             bool keyMainMenu = true;
+            AnimalAbstractClass animalAbstract;
             do
-            { //Write  Who is Ur Pet? Dog/Cat , make 2 functions for dogs cats by
-              //Switch(string WHO):
-              //case "dog" : dog.Function();
-              //case "cat" : cat.Function();
-              //default;
-                Dogs dogs = new Dogs();
-                Cats cats = new Cats();
-                dogs.Running();
-                cats.Running();
-                cats = new Cats
+            {
+                Console.Write("Who is your pet? dog/cat ");
+                string animalType = Console.ReadLine().ToLower();
+                switch (animalType)
                 {
-                    Name = "Biba",
-                    BreedName = "Snus",
-                    Sex = "Male",
-                    Age = 10,
-                };
-
-
+                    case "cat": 
+                        animalAbstract = new Cats();
+                        animalAbstract.InputData();
+                        animalAbstract.ReturnData();
+                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName);
+                        break;
+                    case "dog":
+                        animalAbstract = new Dogs();
+                        animalAbstract.InputData();
+                        animalAbstract.ReturnData();
+                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName);
+                        break;
+                    default: return;
+                }
+                Console.ReadLine();
+                Console.Write("\nThat`s all! Do u want to continue, close - c:  ");
+                if (Console.ReadKey().KeyChar == 'c')
+                {
+                    keyMainMenu = false;
+                }
+                Console.Clear();
             }
             while (keyMainMenu);
             Console.Write("\nDo you want to see whole file, Yes - y:    ");

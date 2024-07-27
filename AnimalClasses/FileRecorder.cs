@@ -16,7 +16,7 @@ namespace AnimalClasses
             FilePath = path;
         }
 
-        public void WriteDataInFile(string path, string? name, int? age, string? sex, string? breed)
+        public void WriteDataInFile(string path, string? name, short? age, string? sex, string? breed)
         {
             string? agestring = age.ToString();
             try
@@ -25,7 +25,7 @@ namespace AnimalClasses
                 //Write a line of text
                 using (StreamWriter sw = new StreamWriter(path, true))
                 {
-                    sw.WriteLine($"|{name.PadRight(15, '_')}|{sex.PadRight(8, '_')}|{agestring.PadRight(10, '_')}|{breed.ToString().PadRight(20, '_')}|\n");
+                    sw.WriteLine($"|{name.PadRight(10, '_')}|{sex.PadRight(6, '_')}|{agestring.PadRight(5, '_')}|{breed.ToString().PadRight(20, '_')}|\n");
                     //Close the file
                     sw.Close();
                 }

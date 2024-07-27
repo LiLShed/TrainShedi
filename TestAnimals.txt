@@ -1,0 +1,8 @@
+|Name______|Sex___|Age__|Breed_______________|
+
+|Marusya___|female|1____|No Breed____________|
+
+|Murka_____|female|12___|Brodyaga____________|
+
+|Meysi_____|male__|5____|Chihua hua__________|
+

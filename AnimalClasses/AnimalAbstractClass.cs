@@ -8,12 +8,12 @@ namespace AnimalClasses
 {
     abstract internal class AnimalAbstractClass
     {
-        public int Age { get { return Age; }  set { Age = 0; } }
-        public string BreedName { get { return BreedName; }  set { BreedName = ""; } }
-        public string Name { get { return Name; }  set { Name = ""; } }
-        public string Sex { get { return Sex; }  set { Sex = ""; } }
+        public short Age { get; set; }
+        public string BreedName { get; set; }
+        public string Name { get; set; }
+        public string Sex { get; set; }
 
-        public AnimalAbstractClass(string name, int? age, string sex,string breed = "No Breed")
+        public AnimalAbstractClass(string name, short? age, string sex,string breed = "No Breed")
         {
             Name = name;
             Age = age ?? 0;
@@ -31,9 +31,40 @@ namespace AnimalClasses
             Console.WriteLine($"{Name} is eating food");
         }
 
-        public override string ToString()
+        public abstract void ReturnData();
+
+        public void InputData()
         {
-            return $"{Name} is {Age} years old, it is {Sex}, {BreedName}";
+
+            Console.Write("Enter name of your pet: ");
+            
+            Name = Console.ReadLine();
+
+            Console.Write("Enter age: ");
+            try
+            {
+                Age = short.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception: " + e.Message);
+                throw;
+            }
+
+            Console.Write("Enter breed name: ");
+            BreedName = Console.ReadLine();
+
+            Console.Write("Enter sex m/f: ");
+            Sex = Console.ReadLine();
+            switch (Sex)
+            {
+                case "f":
+                    Sex = "female";break;
+                case "m":
+                    Sex = "male"; break;
+                default:
+                    break;
+            }
         }
     }
 }

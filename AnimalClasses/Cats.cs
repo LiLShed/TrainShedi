@@ -8,14 +8,9 @@ namespace AnimalClasses
 {
     internal class Cats : AnimalAbstractClass
     {
-        public Cats(string name, int age, string sex, string breed = "No Breed") : base(name, age, sex, breed)
+        public override void ReturnData()
         {
-        }
-        public Cats() { }
-
-        public override string ToString()
-        {
-            return $"Cat {Name} is {Age} year/`s old, it is {Sex}, {BreedName}";
+            Console.WriteLine($"Cat {Name} is {Age} year/`s old, it is {Sex}, {BreedName}");
         }
     }
 }
