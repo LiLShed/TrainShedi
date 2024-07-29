@@ -9,15 +9,14 @@ namespace AnimalClasses
     abstract internal class AnimalAbstractClass
     {
         public short Age { get; set; }
-        public string BreedName { get; set; }
         public string Name { get; set; }
         public string Sex { get; set; }
+        public string BreedName { get; set; }
 
-        public AnimalAbstractClass(string name, short? age, string sex,string breed = "No Breed")
+        public AnimalAbstractClass(string name, short? age, string sex)
         {
             Name = name;
             Age = age ?? 0;
-            BreedName = breed;
             Sex = sex;
         }
         public AnimalAbstractClass() { }
@@ -33,7 +32,7 @@ namespace AnimalClasses
 
         public abstract void ReturnData();
 
-        public void InputData()
+        public void InputData(string animalType)
         {
 
             Console.Write("Enter name of your pet: ");
@@ -51,12 +50,22 @@ namespace AnimalClasses
                 throw;
             }
 
-            Console.Write("Enter breed name: ");
-            BreedName = Console.ReadLine();
-
+            Console.Write($"Choose your {animalType} breed by entering it number: ");
+            if (animalType.ToLower() == "cat")
+            {
+                CatBreeds.ShowAllCatBreeds();
+            }
+            else DogBreeds.ShowAllDogBreeds();
+            short num = short.Parse(Console.ReadLine());
+            if (animalType.ToLower() == "cat")
+            {
+                BreedName = CatBreeds.GetSelectedCatBreed(num);
+            }
+            else BreedName = DogBreeds.GetSelectedDogBreed(num);
+            
             Console.Write("Enter sex m/f: ");
             Sex = Console.ReadLine();
-            switch (Sex)
+            switch (Sex.ToLower())
             {
                 case "f":
                     Sex = "female";break;

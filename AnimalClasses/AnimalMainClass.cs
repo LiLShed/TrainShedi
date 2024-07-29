@@ -29,15 +29,15 @@ namespace TraineeCSHARP
                 {
                     case "cat": 
                         animalAbstract = new Cats();
-                        animalAbstract.InputData();
+                        animalAbstract.InputData(animalType);
                         animalAbstract.ReturnData();
-                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName);
+                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName, animalType);
                         break;
                     case "dog":
                         animalAbstract = new Dogs();
-                        animalAbstract.InputData();
+                        animalAbstract.InputData(animalType);
                         animalAbstract.ReturnData();
-                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName);
+                        recorder.WriteDataInFile(path, animalAbstract.Name, animalAbstract.Age, animalAbstract.Sex, animalAbstract.BreedName, animalType);
                         break;
                     default: return;
                 }
