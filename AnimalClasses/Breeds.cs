@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AnimalClasses
 {
-    internal class Breeds
+    internal abstract class Breeds
     {
         public string BreedType { get; set; }
 
