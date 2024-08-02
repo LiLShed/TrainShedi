@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\traineeCSHARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\breeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\breeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\animalabstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\animalabstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\animalmainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\animalmainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\catbreeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\catbreeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\dogbreeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\dogbreeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\dogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\dogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\cats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\cats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\maincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\maincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,101 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Breeds.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\Breeds.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\Breeds.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\Breeds.cs",
-              "RelativeToolTip": "AnimalClasses\\Breeds.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "DocumentIndex": 2,
+              "Title": "MainCalculator.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\MainCalculator.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\MainCalculator.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\MainCalculator.cs",
+              "RelativeToolTip": "ShediCalculator\\MainCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:22:21.81Z",
+              "WhenOpened": "2024-08-02T15:20:59.674Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DogBreeds.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\DogBreeds.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\DogBreeds.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\DogBreeds.cs",
-              "RelativeToolTip": "AnimalClasses\\DogBreeds.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:17:54.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CatBreeds.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\CatBreeds.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\CatBreeds.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\CatBreeds.cs",
-              "RelativeToolTip": "AnimalClasses\\CatBreeds.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:16:47.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileRecorder.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\FileRecorder.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\FileRecorder.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\FileRecorder.cs",
-              "RelativeToolTip": "AnimalClasses\\FileRecorder.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowA4AAAAJAAAA",
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\Token.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\Token.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\Token.cs",
+              "RelativeToolTip": "ShediCalculator\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T17:57:25.248Z",
+              "WhenOpened": "2024-08-02T16:47:35.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dogs.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\Dogs.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\Dogs.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\Dogs.cs",
-              "RelativeToolTip": "AnimalClasses\\Dogs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "DocumentIndex": 0,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\Lexer.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\Lexer.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\Lexer.cs",
+              "RelativeToolTip": "ShediCalculator\\Lexer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:54:01.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cats.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\Cats.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\Cats.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\Cats.cs",
-              "RelativeToolTip": "AnimalClasses\\Cats.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:53:47.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnimalAbstractClass.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\AnimalAbstractClass.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\AnimalAbstractClass.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\AnimalAbstractClass.cs",
-              "RelativeToolTip": "AnimalClasses\\AnimalAbstractClass.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwD0AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:53:29.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AnimalMainClass.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\AnimalMainClass.cs",
-              "RelativeDocumentMoniker": "AnimalClasses\\AnimalMainClass.cs",
-              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\AnimalMainClass.cs",
-              "RelativeToolTip": "AnimalClasses\\AnimalMainClass.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:43:50.143Z"
+              "WhenOpened": "2024-08-02T16:47:22.385Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AnimalClasses")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ShediCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a3143bd9cf06d2ee9b955da765bc3401c4163d")]
-[assembly: System.Reflection.AssemblyProductAttribute("AnimalClasses")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AnimalClasses")]
+[assembly: System.Reflection.AssemblyProductAttribute("ShediCalculator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ShediCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
