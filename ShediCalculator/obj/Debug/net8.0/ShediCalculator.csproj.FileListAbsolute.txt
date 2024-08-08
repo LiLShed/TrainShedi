@@ -1,0 +1,15 @@
+D:\traineeCSHARP\ShediCalculator\bin\Debug\net8.0\ShediCalculator.exe
+D:\traineeCSHARP\ShediCalculator\bin\Debug\net8.0\ShediCalculator.deps.json
+D:\traineeCSHARP\ShediCalculator\bin\Debug\net8.0\ShediCalculator.runtimeconfig.json
+D:\traineeCSHARP\ShediCalculator\bin\Debug\net8.0\ShediCalculator.dll
+D:\traineeCSHARP\ShediCalculator\bin\Debug\net8.0\ShediCalculator.pdb
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.AssemblyInfoInputs.cache
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.AssemblyInfo.cs
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.csproj.CoreCompileInputs.cache
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.sourcelink.json
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.dll
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\refint\ShediCalculator.dll
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.pdb
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ShediCalculator.genruntimeconfig.cache
+D:\traineeCSHARP\ShediCalculator\obj\Debug\net8.0\ref\ShediCalculator.dll

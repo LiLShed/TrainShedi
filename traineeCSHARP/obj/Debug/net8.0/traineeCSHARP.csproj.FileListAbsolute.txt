@@ -12,3 +12,4 @@ D:\traineeCSHARP\traineeCSHARP\obj\Debug\net8.0\refint\traineeCSHARP.dll
 D:\traineeCSHARP\traineeCSHARP\obj\Debug\net8.0\traineeCSHARP.pdb
 D:\traineeCSHARP\traineeCSHARP\obj\Debug\net8.0\traineeCSHARP.genruntimeconfig.cache
 D:\traineeCSHARP\traineeCSHARP\obj\Debug\net8.0\ref\traineeCSHARP.dll
+D:\traineeCSHARP\traineeCSHARP\obj\Debug\net8.0\traineeCSHARP.sourcelink.json

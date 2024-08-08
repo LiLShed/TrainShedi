@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\traineeCSHARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|d:\\traineecsharp\\traineecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88199E90-ADDE-47AA-BAFD-939FA4324E3D}|traineeCSHARP\\traineeCSHARP.csproj|solutionrelative:traineecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\maincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\maincalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|d:\\traineecsharp\\shedicalculator\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9172B249-68C5-42FD-A24F-1A94EBB2A352}|ShediCalculator\\ShediCalculator.csproj|solutionrelative:shedicalculator\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -27,14 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\traineeCSHARP\\traineeCSHARP\\Program.cs",
-              "RelativeDocumentMoniker": "traineeCSHARP\\Program.cs",
-              "ToolTip": "D:\\traineeCSHARP\\traineeCSHARP\\Program.cs",
-              "RelativeToolTip": "traineeCSHARP\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwIcAAAAYAAAA",
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\Calculation.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\Calculation.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\Calculation.cs",
+              "RelativeToolTip": "ShediCalculator\\Calculation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBwAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T13:21:44.275Z",
+              "WhenOpened": "2024-08-08T20:34:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainCalculator.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\MainCalculator.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\MainCalculator.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\MainCalculator.cs",
+              "RelativeToolTip": "ShediCalculator\\MainCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:20:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\Token.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\Token.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\Token.cs",
+              "RelativeToolTip": "ShediCalculator\\Token.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:47:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\ShediCalculator\\Lexer.cs",
+              "RelativeDocumentMoniker": "ShediCalculator\\Lexer.cs",
+              "ToolTip": "D:\\traineeCSHARP\\ShediCalculator\\Lexer.cs",
+              "RelativeToolTip": "ShediCalculator\\Lexer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwDkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:47:22.385Z",
               "EditorCaption": ""
             }
           ]
