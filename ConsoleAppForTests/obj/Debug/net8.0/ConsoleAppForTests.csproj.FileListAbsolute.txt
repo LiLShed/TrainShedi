@@ -1,0 +1,15 @@
+D:\traineeCSHARP\ConsoleAppForTests\bin\Debug\net8.0\ConsoleAppForTests.exe
+D:\traineeCSHARP\ConsoleAppForTests\bin\Debug\net8.0\ConsoleAppForTests.deps.json
+D:\traineeCSHARP\ConsoleAppForTests\bin\Debug\net8.0\ConsoleAppForTests.runtimeconfig.json
+D:\traineeCSHARP\ConsoleAppForTests\bin\Debug\net8.0\ConsoleAppForTests.dll
+D:\traineeCSHARP\ConsoleAppForTests\bin\Debug\net8.0\ConsoleAppForTests.pdb
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.AssemblyInfoInputs.cache
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.AssemblyInfo.cs
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.csproj.CoreCompileInputs.cache
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.sourcelink.json
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.dll
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\refint\ConsoleAppForTests.dll
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.pdb
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ConsoleAppForTests.genruntimeconfig.cache
+D:\traineeCSHARP\ConsoleAppForTests\obj\Debug\net8.0\ref\ConsoleAppForTests.dll

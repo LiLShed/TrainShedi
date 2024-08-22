@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShediCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa94513ba6c765d5cf1e1de27cd4676d77c6655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5146a807e8b06cd4e86dd8ddb5b6bc6c3de2e0ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShediCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShediCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
