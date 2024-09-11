@@ -11,7 +11,6 @@ namespace StorageDataBaseBasic
         static void Main(string[] args)
         {
             Console.WriteLine("Hello,This is a Storage Database Console Application!");
-            Console.BackgroundColor = ConsoleColor.DarkGray;
             Menu.UserMenu();
         }
     }

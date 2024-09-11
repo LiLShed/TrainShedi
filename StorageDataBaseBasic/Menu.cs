@@ -11,12 +11,12 @@ namespace StorageDataBaseBasic
         private static DataAccess dataAccess = new DataAccess();
         public static void UserMenu()
         {
-            Console.WriteLine("|___________________MENU___________________|\n");
-            Console.WriteLine("|1.Work With User Data                     |\n" +
-                              "|2.Work With Products Data                 |\n" +
-                              "|3.Work With Inventory Data                |\n" +
-                              "|4.Exit                                    |\n" +
-                              "|Else. Clear Window                        |\n");
+            Console.WriteLine("\n|___________________MENU___________________|\n");
+              Console.WriteLine("|1.Work With User Data                     |\n" +
+                                "|2.Work With Products Data                 |\n" +
+                                "|3.Work With Inventory Data                |\n" +
+                                "|4.Exit                                    |\n" +
+                                "|Else. Clear Window                        |\n");
             int i = 0;
             try
             {
@@ -39,7 +39,7 @@ namespace StorageDataBaseBasic
                     InventorySwitchMenu(i);
                     break;
                 case 4:
-                    return;
+                    break;
                 default:
                     Console.Clear();
                     UserMenu();
@@ -48,7 +48,7 @@ namespace StorageDataBaseBasic
         }
         public static void UserSwitchMenu(int i)
         {
-            Console.WriteLine("|______________User MENU___________________|\n");
+            Console.WriteLine("\n|______________User MENU___________________|\n");
             Console.WriteLine("|1.Write new User Data                     |\n" +
                               "|2.Read User Data                          |\n" +
                               "|3.Delete User Data                        |\n" +
@@ -91,7 +91,7 @@ namespace StorageDataBaseBasic
         }
         public static void ProductsSwitchMenu(int i)
         {
-            Console.WriteLine("|__________Products MENU___________________|\n");
+            Console.WriteLine("\n|__________Products MENU___________________|\n");
             Console.WriteLine("|1.Write new Products Data                 |\n" +
                               "|2.Read Products Data                      |\n" +
                               "|3.Delete Products Data                    |\n" +
@@ -134,7 +134,7 @@ namespace StorageDataBaseBasic
         }
         public static void InventorySwitchMenu(int i)
         {
-            Console.WriteLine("|_________Inventory MENU___________________|\n");
+            Console.WriteLine("\n|_________Inventory MENU___________________|\n");
             Console.WriteLine("|1.Write new Inventory Data                |\n" +
                               "|2.Read Inventory Data                     |\n" +
                               "|3.Delete Inventory Data                   |\n" +

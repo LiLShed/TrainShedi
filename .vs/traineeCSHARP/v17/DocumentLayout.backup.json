@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{8F79B2C5-7F67-4989-8F8C-F413217A8F82}|StorageDataBaseBasic\\StorageDataBaseBasic.csproj|solutionrelative:storagedatabasebasic\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|d:\\traineecsharp\\animalclasses\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E95B345-7626-4FCC-A461-D4ED335545D3}|AnimalClasses\\AnimalClasses.csproj|solutionrelative:animalclasses\\filerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F79B2C5-7F67-4989-8F8C-F413217A8F82}|StorageDataBaseBasic\\StorageDataBaseBasic.csproj|d:\\traineecsharp\\storagedatabasebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F79B2C5-7F67-4989-8F8C-F413217A8F82}|StorageDataBaseBasic\\StorageDataBaseBasic.csproj|solutionrelative:storagedatabasebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRecorder.cs",
+              "DocumentMoniker": "D:\\traineeCSHARP\\AnimalClasses\\FileRecorder.cs",
+              "RelativeDocumentMoniker": "AnimalClasses\\FileRecorder.cs",
+              "ToolTip": "D:\\traineeCSHARP\\AnimalClasses\\FileRecorder.cs",
+              "RelativeToolTip": "AnimalClasses\\FileRecorder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:08:02.927Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "StorageDataBaseBasic\\Menu.cs",
               "ToolTip": "D:\\traineeCSHARP\\StorageDataBaseBasic\\Menu.cs",
               "RelativeToolTip": "StorageDataBaseBasic\\Menu.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwIgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T16:24:54.494Z",
               "EditorCaption": ""
@@ -45,20 +62,20 @@
               "RelativeDocumentMoniker": "StorageDataBaseBasic\\DataAccess.cs",
               "ToolTip": "D:\\traineeCSHARP\\StorageDataBaseBasic\\DataAccess.cs",
               "RelativeToolTip": "StorageDataBaseBasic\\DataAccess.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAUwKYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAqwEgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T18:13:01.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\traineeCSHARP\\StorageDataBaseBasic\\Program.cs",
               "RelativeDocumentMoniker": "StorageDataBaseBasic\\Program.cs",
               "ToolTip": "D:\\traineeCSHARP\\StorageDataBaseBasic\\Program.cs",
               "RelativeToolTip": "StorageDataBaseBasic\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T23:55:03.936Z",
               "EditorCaption": ""
