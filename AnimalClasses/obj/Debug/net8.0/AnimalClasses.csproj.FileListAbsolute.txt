@@ -1,0 +1,15 @@
+D:\traineeCSHARP\AnimalClasses\bin\Debug\net8.0\AnimalClasses.exe
+D:\traineeCSHARP\AnimalClasses\bin\Debug\net8.0\AnimalClasses.deps.json
+D:\traineeCSHARP\AnimalClasses\bin\Debug\net8.0\AnimalClasses.runtimeconfig.json
+D:\traineeCSHARP\AnimalClasses\bin\Debug\net8.0\AnimalClasses.dll
+D:\traineeCSHARP\AnimalClasses\bin\Debug\net8.0\AnimalClasses.pdb
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.AssemblyInfoInputs.cache
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.AssemblyInfo.cs
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.csproj.CoreCompileInputs.cache
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.sourcelink.json
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.dll
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\refint\AnimalClasses.dll
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.pdb
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\AnimalClasses.genruntimeconfig.cache
+D:\traineeCSHARP\AnimalClasses\obj\Debug\net8.0\ref\AnimalClasses.dll
