@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|d:\\sheditrainee\\databasestorage\\databasestorage\\databasestorage\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|solutionrelative:databasestorage\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|d:\\sheditrainee\\databasestorage\\databasestorage\\databasestorage\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|solutionrelative:databasestorage\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|d:\\sheditrainee\\databasestorage\\databasestorage\\databasestorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A450263-367C-44F5-8426-0BE9473BFFD7}|DatabaseStorage\\DatabaseStorage.csproj|solutionrelative:databasestorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DatabaseStorage\\DataAccess.cs",
+              "ToolTip": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\DataAccess.cs",
+              "RelativeToolTip": "DatabaseStorage\\DataAccess.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAvwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:49:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\Menu.cs",
+              "RelativeDocumentMoniker": "DatabaseStorage\\Menu.cs",
+              "ToolTip": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\Menu.cs",
+              "RelativeToolTip": "DatabaseStorage\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:49:05.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseStorage\\Program.cs",
+              "ToolTip": "D:\\ShediTrainee\\DatabaseStorage\\DatabaseStorage\\DatabaseStorage\\Program.cs",
+              "RelativeToolTip": "DatabaseStorage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:47:48.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
